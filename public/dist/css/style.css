@@ -1,0 +1,27 @@
+.dropdownsa {
+    max-width: 1080px;
+    margin: auto;
+}
+
+.caretsa {
+    padding: 460px;
+}
+
+.dropdown-menu {
+    max-width: 1080px;
+    margin: auto;
+    padding: 20px;
+
+    font-size: 150%;
+}
+
+.dropdown-menu li a {
+    margin: auto;
+    padding: 20px;
+    color: white;
+}
+
+.form1 {
+    max-width: 1080px;
+    margin: auto;
+}
